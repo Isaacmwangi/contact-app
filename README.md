@@ -15,7 +15,7 @@ This is a simple Contacts application built with React Router that allows users 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/contacts-app.git`
+1. Clone the repository: `git clone https://github.com/Isaacmwangi/contact-app.git`
 2. Navigate to the project directory: `cd contacts-app`
 3. Install dependencies: `npm install`
 
